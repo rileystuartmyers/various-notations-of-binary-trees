@@ -9,4 +9,13 @@ Inputs are read in groups of two:
 
 Output is given after evaluating the math statement line, and gives the product of that line.
 
+
+Example:
+
+(Input) - infix
+          16 - 1 * (( 2 ^ 2 ) ^ 3 )
+
+(Output) - 0.25
+
+
 Thank you for reading!
